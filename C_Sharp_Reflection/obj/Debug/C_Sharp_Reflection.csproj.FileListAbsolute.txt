@@ -1,0 +1,7 @@
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\C_Sharp_Reflection.csprojAssemblyReference.cache
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\C_Sharp_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\C_Sharp_Reflection.exe.config
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\C_Sharp_Reflection.exe
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\bin\Debug\C_Sharp_Reflection.pdb
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\C_Sharp_Reflection.exe
+C:\Users\gc\source\repos\C_Sharp_Reflection\C_Sharp_Reflection\obj\Debug\C_Sharp_Reflection.pdb
