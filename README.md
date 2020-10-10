@@ -11,7 +11,7 @@ Here's a simple example of reflection using the static method GetType - inherite
 ```C#
 // Using GetType to obtain type information:   
 int i = 42;  
-System.Type type = i.GetType();  
+System.Type type = i.GetType();   
 System.Console.WriteLine(type);  
 ```
 
