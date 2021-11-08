@@ -1,8 +1,4 @@
-## Introduction:
-
-In this article, I’ll discuss about C# Reflection with an example. Here we’ll learn the way of getting type information using different ways and use of properties and methods of C# Reflection type class. Advanced Reflection topics like dynamically loading an assembly and late binding will also be discussed in this article. To complete the tutorial we have implemented a C# dictionary.
-
-## What is Reflection in C#?:
+## Reflection in C# Example:
 
 Reflection provides objects (of type Type) that describe assemblies, modules and types. We can use reflection to dynamically create an instance of a type, bind the type to an existing object, or get the type from an existing object and invoke its methods or access its fields and properties. If we use attributes in our code, reflection enables us to access them.
 
@@ -35,7 +31,7 @@ The output is:
 mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
 ```
 
-## Real time implementation:
+## Implementation:
 
 Firstly, we will create a C# console application and add two classes named Student.cs and StudentFunction.cs. The Student.cs class contains some properties of Student and the StudentFunction.cs class contains methods returning different properties value.
 
