@@ -16,7 +16,7 @@ The output is:
 ```C#
 System.Int32
 ```
-
+ 
 The following example uses reflection to obtain the full name of the loaded assembly.
 
 ```C#
