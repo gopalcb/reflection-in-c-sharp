@@ -10,7 +10,7 @@ int i = 42;
 System.Type type = i.GetType();   
 System.Console.WriteLine(type);  
 ```
-
+ 
 The output is:
 
 ```C#
